@@ -1,4 +1,4 @@
-echo "# DataScience-AI-ML-Flipkart_EDA" >> README.md
+echo "# DataScience-AI-ML" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
